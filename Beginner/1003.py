@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+# 1003 - Simple Sum - Sequencial - Level 1
 def read_integer():
     
     return int(input())
