@@ -9,6 +9,6 @@ a = read_integer()
 
 b = read_integer()
 
-x = a + b
+x = (a + b)
 
 print("X = {0}". format(x))
