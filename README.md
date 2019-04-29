@@ -11,7 +11,7 @@ Repositório para as soluções dos problemas da Maratona de Programação dispo
 
 | Categorias               | Total de Problemas | Resolvidos |
 |--------------------------|--------------------|------------|
-| Iniciante                | 312                | 1          |
+| Iniciante                | 312                | 2          |
 | Ad-Hoc                   | 645                | 0          |
 | Strings                  | 122                | 0          |
 | Bibliotecas e Estruturas | 142                | 0          |
@@ -25,11 +25,11 @@ Repositório para as soluções dos problemas da Maratona de Programação dispo
 
 | Nível | Total de Problemas | Resolvidos |
 |-------|--------------------|------------|
-| 1     | ???                | 1          |
+| 1     | ???                | 0          |
 | 2     | ???                | 0          |
 | 3     | ???                | 0          |
 | 4     | ???                | 0          |
-| 5     | ???                | 0          |
+| 5     | ???                | 5          |
 | 6     | ???                | 0          |
 | 7     | ???                | 0          |
 | 8     | ???                | 0          |
@@ -40,7 +40,7 @@ Repositório para as soluções dos problemas da Maratona de Programação dispo
 
 | Categorias\Nível         |   1   |    2  |    3  |    4  |    5  |    6  |    7  |    8  |    9  |   10  |
 |--------------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
-| Iniciante                | 1/79  | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? | 0/10  | 0/6   |
+| Iniciante                | 0/79  | 0/??? | 0/??? | 0/??? | 1/??? | 0/??? | 0/??? | 0/??? | 0/10  | 0/6   |
 | Ad-Hoc                   | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? |
 | Strings                  | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? |
 | Bibliotecas e Estruturas | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? | 0/??? |
