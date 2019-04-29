@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+# 1001 - Extremely Basic - Sequencial - Level 1
 def read_integer():
 
     return int(input())
