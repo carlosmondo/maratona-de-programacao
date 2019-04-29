@@ -29,7 +29,7 @@ Repositório para as soluções dos problemas da Maratona de Programação dispo
 | 2     | ???                | 0          |
 | 3     | ???                | 0          |
 | 4     | ???                | 0          |
-| 5     | ???                | 5          |
+| 5     | ???                | 0          |
 | 6     | ???                | 0          |
 | 7     | ???                | 0          |
 | 8     | ???                | 0          |
