@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="assets/imgs/logo.jpg" width="250">
-  <img src="assets/imgs/univille-logo.png" width="140">
-<h1 align="center"> Grupo de Estudo para Maratona de Programação </h1>
-</p>
-
 Repositório para as soluções dos problemas da Maratona de Programação disponível no site [URI Online Judge](https://www.urionlinejudge.com.br/)
 
 ### 🎯 Primeira Fase: 14 de setembro de 2019 
